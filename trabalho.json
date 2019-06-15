@@ -27,7 +27,7 @@
 	   "InstanceType": {
 			"Description": "Tipo de instancia",
 			"Type": "String",
-			"Default": "t2.micro",
+			"Default": 2.micro"
 			"AllowedValues": ["t2.micro", "t2.small", "t2.medium"]
 		},
       "ImageId": {
